@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'MainFont'; /* Name to reference the font */
+    src: url('./fonts/Game Of Squids.ttf') format('truetype'); /* Correct path to the font file */
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+@font-face {
+  font-family: "Outfit";
+  src: url("./fonts/Outfit/Outfit-VariableFont_wght.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "squid-prize-money";
+  src: url("./fonts/squid-prize-money.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Pokemon Solid";
+  src: url("./fonts/Pokemon Solid.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
